@@ -48,6 +48,15 @@ I'm an AI Developer with a strong focus on Machine Learning and Deep Learning te
 [🔗 Explore all my repositories on GitHub](https://github.com/rakshureddy1308?tab=repositories)
 
 ---
+## 💻 LeetCode Profile
+
+Check out my LeetCode profile to see my problem-solving skills and solutions: [LeetCode Profile](https://leetcode.com/Rakshu_reddy)
+
+### 🏆 LeetCode Stats
+- **Total Problems Solved:** ![Total Problems Solved](https://img.shields.io/badge/Total%20Problems%20Solved-0-brightgreen) <!-- Replace XXX with your actual total -->
+- **Acceptance Rate:** ![Acceptance Rate](https://img.shields.io/badge/Acceptance%20Rate-0%25-yellow) <!-- Replace XX with your actual rate -->
+- **Badges Earned:** ![Badge](https://img.shields.io/badge/Badge%20Name-0-brightblue) <!-- Replace with actual badges -->
+---
 
 ## 📈 GitHub Stats
 
