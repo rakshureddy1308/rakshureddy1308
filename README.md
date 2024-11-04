@@ -1,6 +1,6 @@
 # Hi there, I'm Rakshith Reddy! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=rakshureddy1308&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=rakshureddy1308&color=brightgreen)  
 
 ## 🚀 About Me
 
@@ -11,6 +11,8 @@ I'm an AI Developer with a strong focus on Machine Learning and Deep Learning te
 #### **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 #### **Frameworks & Libraries**
@@ -24,29 +26,34 @@ I'm an AI Developer with a strong focus on Machine Learning and Deep Learning te
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=black)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 
-#### **Tools**
+#### **Design & Tools**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA6E06?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-## 🌟 Projects
+## 📚 Repositories
 
-Here are a few notable projects I've been working on:
+Here’s a list of all my repositories. Check them out to see my latest work and collaborations!
 
-- **[AI Playground](https://github.com/rakshureddy1308/AI-Playground)** - A simulator app for hands-on learning of AI, ML, and Deep Learning techniques.
-- **[Diagnosis of Acute Diseases](https://github.com/rakshureddy1308/Acute-Disease-Diagnosis)** - AI project for diagnosing acute diseases in rural areas using machine learning.
+[🔗 Explore all my repositories on GitHub](https://github.com/rakshureddy1308?tab=repositories)
+
+---
 
 ## 📈 GitHub Stats
 
 ![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshureddy1308&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshureddy1308&layout=compact&theme=radical)
 
+---
+
 ## 🔗 Connect with Me
 
-- LinkedIn: [Rakshith Reddy on LinkedIn](https://linkedin.com/in/rakshureddy1308)
-- Twitter: [@rakshureddy1308](https://twitter.com/rakshureddy1308)
-- Personal Website: [rakshureddy.com](https://rakshureddy.com)
+- LinkedIn: [Rakshith Reddy on LinkedIn]([https://linkedin.com/in/rakshureddy1308](https://www.linkedin.com/in/rakshitha-reddy-48b30621b/))
+
+- Personal Website: [rakshureddy.com]([https://rakshureddy.com](https://rakshureddy1308.github.io/Portfolio/))
 
 ---
 
