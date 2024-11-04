@@ -1,4 +1,4 @@
-# Hi there, I'm Rakshith Reddy! 👋
+# Hi there, I'm Rakshitha Reddy! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=rakshureddy1308&color=brightgreen)  
 
@@ -36,7 +36,11 @@ I'm an AI Developer with a strong focus on Machine Learning and Deep Learning te
 
 ## 📚 Repositories
 
-Here’s a list of all my repositories. Check them out to see my latest work and collaborations!
+| Repository | Description | Stars | Forks |
+|------------|-------------|-------|-------|
+| ![Repo](https://img.shields.io/badge/AI%20Playground-blue) | Simulator app for hands-on learning of AI, ML, and Deep Learning techniques. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/AI-Playground?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/AI-Playground?style=social) |
+| ![Repo](https://img.shields.io/badge/Acute%20Disease%20Diagnosis-blue) | AI project for diagnosing acute diseases in rural areas using machine learning. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/Acute-Disease-Diagnosis?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/Acute-Disease-Diagnosis?style=social) |
+| ![Repo](https://img.shields.io/badge/Machine%20Learning%20Models-blue) | Collection of various ML models applied to practical problems. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/Machine-Learning-Models?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/Machine-Learning-Models?style=social) |
 
 [🔗 Explore all my repositories on GitHub](https://github.com/rakshureddy1308?tab=repositories)
 
@@ -51,9 +55,8 @@ Here’s a list of all my repositories. Check them out to see my latest work and
 
 ## 🔗 Connect with Me
 
-- LinkedIn: [Rakshith Reddy on LinkedIn]([https://linkedin.com/in/rakshureddy1308](https://www.linkedin.com/in/rakshitha-reddy-48b30621b/))
-
-- Personal Website: [rakshureddy.com]([https://rakshureddy.com](https://rakshureddy1308.github.io/Portfolio/))
+- LinkedIn: [Rakshitha Reddy on LinkedIn](https://www.linkedin.com/in/rakshitha-reddy-48b30621b/)
+- Personal Website: [rakshureddy1308.github.io/Portfolio/](https://rakshureddy1308.github.io/Portfolio/)
 
 ---
 
