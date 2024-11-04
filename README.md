@@ -33,14 +33,17 @@ I'm an AI Developer with a strong focus on Machine Learning and Deep Learning te
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA6E06?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
 ## 📚 Repositories
 
 | Repository | Description | Stars | Forks |
 |------------|-------------|-------|-------|
-| ![Repo](https://img.shields.io/badge/AI%20Playground-blue) | Simulator app for hands-on learning of AI, ML, and Deep Learning techniques. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/AI-Playground?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/AI-Playground?style=social) |
-| ![Repo](https://img.shields.io/badge/Acute%20Disease%20Diagnosis-blue) | AI project for diagnosing acute diseases in rural areas using machine learning. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/Acute-Disease-Diagnosis?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/Acute-Disease-Diagnosis?style=social) |
-| ![Repo](https://img.shields.io/badge/Machine%20Learning%20Models-blue) | Collection of various ML models applied to practical problems. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/Machine-Learning-Models?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/Machine-Learning-Models?style=social) |
+| ![Repo](https://img.shields.io/badge/Portfolio-blue) | Personal portfolio website. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/Portfolio?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/Portfolio?style=social) |
+| ![Repo](https://img.shields.io/badge/podcast%20test-blue) | Podcast platform testing project. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/podcast-test?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/podcast-test?style=social) |
+| ![Repo](https://img.shields.io/badge/Outlier%20Detection-blue) | Detects outliers in datasets. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/OutlierDetection?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/OutlierDetection?style=social) |
+| ![Repo](https://img.shields.io/badge/Pneumonia%20Recognition-blue) | Recognizes pneumonia in X-ray images. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/PneumoniaRecognization?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/PneumoniaRecognization?style=social) |
+| ![Repo](https://img.shields.io/badge/Teacher%20ChatBot-blue) | NLP-based chatbot for teacher responses. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/TeacherChatBot?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/TeacherChatBot?style=social) |
+| ![Repo](https://img.shields.io/badge/GAN%20Implementation-blue) | Implementation of Generative Adversarial Networks. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/GAN-implementation?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/GAN-implementation?style=social) |
+| ![Repo](https://img.shields.io/badge/Calender-blue) | Calendar management application. | ![Stars](https://img.shields.io/github/stars/rakshureddy1308/Calender?style=social) | ![Forks](https://img.shields.io/github/forks/rakshureddy1308/Calender?style=social) |
 
 [🔗 Explore all my repositories on GitHub](https://github.com/rakshureddy1308?tab=repositories)
 
